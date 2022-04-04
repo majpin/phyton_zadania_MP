@@ -1,4 +1,4 @@
-towar = int(input('co chcesz kupic?: '))
+towar = input('Podaj co chcesz dzis kupic: ')
 ile = int(input('ile chcesz kupic?: '))
 cena = int(input('ilr kosztuje dany produkt?: '))
 naleznosc = cena * ile
