@@ -1,6 +1,5 @@
 towar = input('Podaj co chcesz dzis kupic: ')
 ile = int(input('ile chcesz kupic?: '))
-cena = int(input('ilr kosztuje dany produkt?: '))
+cena = int(input('ile kosztuje dany produkt?: '))
 naleznosc = cena * ile
-print(f'do zaplaty jest{naleznosc} pln za {towar}')
-#nie wiem co tu jest źle nie rozumiem tego
+print(f'Do zaplaty jest {naleznosc} pln za {towar}')
